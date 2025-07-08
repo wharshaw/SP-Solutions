@@ -1,4 +1,4 @@
-package com.sp_solutions.exam.controller;
+package com.sp_solutions.exam.exam.controller;
 
 @RestController
 @RequestMapping("/api/lists")

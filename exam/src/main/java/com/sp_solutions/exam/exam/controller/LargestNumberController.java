@@ -1,4 +1,6 @@
-package com.sp_solutions.exam.controller;
+package com.sp_solutions.exam.exam.controller;
+
+import java.util.Collections;
 
 @RestController
 @RequestMapping("/api")

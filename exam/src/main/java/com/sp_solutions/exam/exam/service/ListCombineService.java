@@ -1,4 +1,4 @@
-package com.sp_solutions.exam.service;
+package com.sp_solutions.exam.exam.service;
 
 @Service
 public class ListCombineService {
