@@ -1,5 +1,10 @@
 package com.sp_solutions.exam.exam.service;
 
+import org.springframework.stereotype.Service;
+
+import java.util.ArrayList;
+import java.util.List;
+
 @Service
 public class ListCombineService {
     public <T> List<T> combineAlternately(List<T> list1, List<T> list2) {
